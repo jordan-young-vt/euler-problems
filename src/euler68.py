@@ -1,7 +1,6 @@
 ##Slightly different implementation than 18
 
 import re
-from bs4 import BeautifulSoup
 import urllib2
 
 def readInData():
